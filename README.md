@@ -1,2 +1,2 @@
 # protoc-gen-mixgo
-A protoc plugin for mixgo
+A protoc plugin for gokit
